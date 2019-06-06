@@ -7,8 +7,6 @@ def my_each(array)
     i = i + 1
     end
     array
-  else
-    puts "Please call using a block!"
   end
 end
 
