@@ -12,4 +12,4 @@ def my_each(array)
   end
 end
 
-my_each["Tim", "Tom", "Jim"]
+my_each(array)
