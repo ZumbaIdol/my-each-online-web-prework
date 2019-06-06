@@ -9,4 +9,7 @@ def my_each( array)
     array
   else
     puts "Please call using a block!"
+  end
 end
+
+my_each
